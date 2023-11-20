@@ -1,18 +1,9 @@
 <RCC>
-    <qresource prefix="/pacman">
-        <file>recursos/pacman/muerte.png</file>
-        <file>recursos/pacman/pacman.png</file>
-    </qresource>
-    <qresource prefix="/fantasmas">
-        <file>recursos/ghosts/bl1.png</file>
-        <file>recursos/ghosts/bl2.png</file>
-        <file>recursos/ghosts/fantasmas.png</file>
-        <file>recursos/ghosts/ojos.png</file>
+    <qresource prefix="/objetos">
+        <file>recursos/ghosts/things.png</file>
     </qresource>
     <qresource prefix="/mapa">
-        <file>recursos/mapa/frutas.png</file>
         <file>recursos/mapa/labyrinth.png</file>
-        <file>recursos/mapa/map.txt</file>
         <file>recursos/mapa/musica.png</file>
         <file>recursos/mapa/puntos de frutas.png</file>
         <file>recursos/mapa/puntos por muerte de fantasma.png</file>
@@ -28,6 +19,5 @@
     <qresource prefix="/extras">
         <file>recursos/fondo.jfif</file>
         <file>recursos/pacman10-hp-sprite-3.png</file>
-        <file>recursos/things.png</file>
     </qresource>
 </RCC>

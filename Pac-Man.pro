@@ -11,23 +11,27 @@ CONFIG += c++17
 SOURCES += \
     blinky.cpp \
     clyde.cpp \
+    entidad.cpp \
     fantasmas.cpp \
     inky.cpp \
     main.cpp \
     juego.cpp \
     mapa_.cpp \
     pacman.cpp \
-    pinky.cpp
+    pinky.cpp \
+    recursos.cpp
 
 HEADERS += \
     blinky.h \
     clyde.h \
+    entidad.h \
     fantasmas.h \
     inky.h \
     juego.h \
     mapa_.h \
     pacman.h \
-    pinky.h
+    pinky.h \
+    recursos.h
 
 FORMS += \
     juego.ui
